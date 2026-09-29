@@ -1,10 +1,10 @@
 # Olá, eu sou o Eduardo Uchoa 👋
 
-**Desenvolvedor Full Stack** focado em aplicações web modernas com **TypeScript** de ponta a ponta — do back-end em **NestJS** ao front-end em **SvelteKit**, **React** e **Next.js**.
+**Desenvolvedor Full Stack** focado em aplicações web modernas com **TypeScript** de ponta a ponta, do back-end em **NestJS** ao front-end em **SvelteKit**, **React** e **Next.js**.
 
 - 🔭 Desenvolvo sistemas web completos: APIs, painéis administrativos e aplicações para clientes
 - 🧩 Foco em código tipado, organizado e fácil de manter
-- 💼 A maior parte dos meus projetos é privada (clientes) — fico à disposição para conversar sobre eles
+- 💼 A maior parte dos meus projetos é privada (clientes), fico à disposição para conversar sobre eles
 
 ## 🛠️ Stack
 
